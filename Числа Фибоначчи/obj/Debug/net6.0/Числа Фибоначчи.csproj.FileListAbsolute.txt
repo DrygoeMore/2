@@ -1,0 +1,15 @@
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\bin\Debug\net6.0\Числа Фибоначчи.exe
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\bin\Debug\net6.0\Числа Фибоначчи.deps.json
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\bin\Debug\net6.0\Числа Фибоначчи.runtimeconfig.json
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\bin\Debug\net6.0\Числа Фибоначчи.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\bin\Debug\net6.0\Числа Фибоначчи.pdb
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.csproj.AssemblyReference.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.AssemblyInfoInputs.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.AssemblyInfo.cs
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.csproj.CoreCompileInputs.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\refint\Числа Фибоначчи.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.pdb
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\Числа Фибоначчи.genruntimeconfig.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Числа Фибоначчи\obj\Debug\net6.0\ref\Числа Фибоначчи.dll

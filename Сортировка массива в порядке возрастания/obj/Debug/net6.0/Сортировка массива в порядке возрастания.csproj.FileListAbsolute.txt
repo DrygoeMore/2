@@ -1,0 +1,15 @@
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\bin\Debug\net6.0\Сортировка массива в порядке возрастания.exe
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\bin\Debug\net6.0\Сортировка массива в порядке возрастания.deps.json
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\bin\Debug\net6.0\Сортировка массива в порядке возрастания.runtimeconfig.json
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\bin\Debug\net6.0\Сортировка массива в порядке возрастания.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\bin\Debug\net6.0\Сортировка массива в порядке возрастания.pdb
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.csproj.AssemblyReference.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.AssemblyInfoInputs.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.AssemblyInfo.cs
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.csproj.CoreCompileInputs.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\refint\Сортировка массива в порядке возрастания.dll
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.pdb
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\Сортировка массива в порядке возрастания.genruntimeconfig.cache
+C:\Users\79099\Desktop\синергия\ConsoleApp1\Сортировка массива в порядке возрастания\obj\Debug\net6.0\ref\Сортировка массива в порядке возрастания.dll
